@@ -1,4 +1,9 @@
-## Olá, meu nome é Alexandre Hideki Siroma, sou um ex dev me aventurando no mundo do UX Design!
+## Olá, meu nome é Alexandre Hideki Siroma, sou um dev me aventurando no mundo do UX Design!
+
+- Estudando acessibilidade na web.
+- Estudando desenvolvimento de design system.
+- UX designer em [BNP Soluções em TI](https://www.bnpsolucoes.com.br/).
+
 <div align="center">
   <a href="https://github.com/Hidekih">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hidekih&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
