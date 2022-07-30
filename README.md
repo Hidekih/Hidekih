@@ -1,4 +1,4 @@
-## Olá, meu nome é Alexandre Hideki Siroma, sou um dev me aventurando no mundo do UX Design!
+## Olá, meu nome é Alexandre Hideki Siroma, sou um dev e atualmente estou me aventurando no mundo do UX Design!
 
 - Estudando acessibilidade na web e design systems.
 - UX designer júnior em [BNP Soluções em TI](https://www.bnpsolucoes.com.br/).
