@@ -1,7 +1,7 @@
 ## Olá, meu nome é Alexandre Hideki Siroma, sou um dev e atualmente estou me aventurando no mundo do UX Design!
 
-- Estudando acessibilidade na web e design systems.
-- Full stack designer em [BNP Soluções em TI](https://www.bnpsolucoes.com.br/).
+- Estudando React Native e desenvolvimento de pacotes (npm).
+- Full stack designer Jr em [BNP Soluções em TI](https://www.bnpsolucoes.com.br/).
 
 <div align="center">
   <a href="https://github.com/Hidekih">
