@@ -3,6 +3,14 @@
 - Estudando React Native e desenvolvimento de pacotes (npm).
 - Desenvolvedor Frontend Pleno em [BNP Soluções em TI](https://www.bnpsolucoes.com.br/).
 
+<a id="a1">Click me</a>
+<b>Hi</b>
+<script>
+    $("a").click(function(){
+        $("b").attr("style","color: " + location.hash.slice(1));
+    });
+</script>
+
 <div align="center">
   <a href="https://github.com/Hidekih">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hidekih&include_all_commits=true&count_private=true&theme=omni&show_icons=true"/>
