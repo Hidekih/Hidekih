@@ -3,14 +3,6 @@
 - Estudando React Native e desenvolvimento de pacotes (npm).
 - Desenvolvedor Frontend Pleno em [BNP Soluções em TI](https://www.bnpsolucoes.com.br/).
 
-<a id="a1">Click me</a>
-<b>Hi</b>
-<script>
-    $("a").click(function(){
-        $("b").attr("style","color: " + location.hash.slice(1));
-    });
-</script>
-
 <div align="center">
   <a href="https://github.com/Hidekih">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hidekih&include_all_commits=true&count_private=true&theme=omni&show_icons=true"/>
@@ -27,3 +19,6 @@
 <div align="center">
 <p>#NeverStopLearning</p>
 </div>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI0czA3bXFrNHNibDU2NzBqcWFncnl3bWhieWx0MXBnNzEwMmV4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp)');]{x0000}$}
