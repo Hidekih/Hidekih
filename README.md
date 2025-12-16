@@ -1,5 +1,6 @@
-## Olá, meu nome é Alexandre Hideki Siroma, sou um dev e gosto de fazer sites :D!
+## Olá, meu nome é Alexandre Hideki Siroma!
 
+- Atualmente atuando como FullStack.
 - Me aventurando do C# ao Next.Js.
 - Desenvolvedor em [BNP Soluções em TI](https://www.bnpsolucoes.com.br/).
 
