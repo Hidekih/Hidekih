@@ -1,14 +1,14 @@
 ## Olá, meu nome é Alexandre Hideki Siroma!
 
-- Atualmente atuando como FullStack.
-- Me aventurando do C# ao Next.Js.
+- FullStack
+- Do C# ao Next.Js
 - Desenvolvedor em [BNP Soluções em TI](https://www.bnpsolucoes.com.br/).
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Hidekih">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hidekih&include_all_commits=true&count_private=true&theme=omni&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hidekih&layout=compact&langs_count=7&theme=omni"/>
-</div>
+</div> -->
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
